@@ -29,30 +29,29 @@
 
         <div class="page-content">
             <div class="container-fluid">
-
-                <div class="row">
+                    
+                <div class="row"> 
                     <div class="col-4">
-                        <img src="" alt="">
+                        <img width="100%" src="img/profe.webp"  alt="">
                     </div>
-                    <div class="col-sm-8">
+                    <div class="col-8">
                         <div class="text-align-justify">
                             <h4>Historia de Nuestra Empresa</h4>
                             <p> Rolex es una marca legendaria que ha definido la excelencia en la relojería durante más de un siglo. Fundada en 1905 en Londres por el visionario empresario Hans Wilsdorf, Rolex surgió con la ambición de crear relojes de precisión que fueran tanto elegantes como funcionales.
-                                <li>
+                                
                                     Desde sus primeros días, Rolex se destacó por su enfoque en la innovación y la calidad. En 1910, Rolex se convirtió en el primer fabricante de relojes en obtener la certificación de cronometría suiza, sentando así las bases de su reputación como cronometrador preciso y confiable.
-                                </li>
-                                <li>
+                                
                                     En los años siguientes, Rolex continuó estableciendo nuevos estándares en la industria relojera. En 1926, presentó el primer reloj resistente al agua del mundo, el Rolex Oyster, revolucionando así la forma en que se percibían los relojes de pulsera. Este hito fue seguido por una serie de innovaciones técnicas, incluido el primer reloj con fecha automática en 1945, el Rolex Datejust.
-                                </li>
-                                <li>
+                                
                                     A lo largo de los años, Rolex se ha asociado con exploradores, atletas y líderes de opinión de todo el mundo, consolidando su reputación como símbolo de logro y distinción. Desde el Monte Everest hasta el fondo del océano, los relojes Rolex han acompañado a los aventureros más intrépidos en sus expediciones más audaces.
-                                </li>
-                                <li>
+                                
                                     Hoy en día, Rolex sigue siendo una marca líder en la industria relojera, conocida por su artesanía excepcional, su diseño atemporal y su compromiso con la excelencia. Con una herencia rica en innovación y logros, Rolex continúa inspirando a generaciones de amantes de la relojería en todo el mundo, manteniendo viva la visión visionaria de su fundador, Hans Wilsdorf.
-                                </li>
+                                
                             </p>
 
                         </div>
+                        
+                        
                     </div><!-- end col -->
                 </div><!-- end row -->
                 <br>
