@@ -35,9 +35,9 @@
                         <img src="" alt="">
                     </div>
                     <div class="col-sm-8">
-                        <div class="text-center mt-4">
+                        <div class="text-align-justify">
                             <h4>Historia de Nuestra Empresa</h4>
-                            <p class="text-center"> Rolex es una marca legendaria que ha definido la excelencia en la relojería durante más de un siglo. Fundada en 1905 en Londres por el visionario empresario Hans Wilsdorf, Rolex surgió con la ambición de crear relojes de precisión que fueran tanto elegantes como funcionales.
+                            <p> Rolex es una marca legendaria que ha definido la excelencia en la relojería durante más de un siglo. Fundada en 1905 en Londres por el visionario empresario Hans Wilsdorf, Rolex surgió con la ambición de crear relojes de precisión que fueran tanto elegantes como funcionales.
                                 <li>
                                     Desde sus primeros días, Rolex se destacó por su enfoque en la innovación y la calidad. En 1910, Rolex se convirtió en el primer fabricante de relojes en obtener la certificación de cronometría suiza, sentando así las bases de su reputación como cronometrador preciso y confiable.
                                 </li>
